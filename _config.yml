@@ -3,6 +3,8 @@ description: Coding
 author: Onno van Paridon
 permalink: pretty
 theme: minima
+header_pages:
+  - about.md
 github_username:  onnovanparidon
 twitter_username: onnovanparidon
 instagram_username: onnovanparidon
