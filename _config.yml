@@ -2,6 +2,12 @@ title: Onno van Paridon
 description: Coding
 author: Onno van Paridon
 permalink: pretty
+defaults:
+  - scope:
+      path: "sketches"
+      type: "posts"
+    values:
+      permalink: sketches/:title
 theme: minima
 header_pages:
   - about.md
