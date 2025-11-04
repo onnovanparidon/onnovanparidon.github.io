@@ -1,2 +1,1 @@
-# onnovanparidon.github.io
-GitHub hosted website
+# Hi there 👋
